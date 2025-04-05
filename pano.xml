@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama hassounds="0" appversion="7.1.6" id="node1" apprev="20966">
+  <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" height="1000" width="1000" overlap="1" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelingroll="0">
+    <level predecode="0" height="1000" width="1000" preload="0"/>
+    <level predecode="1" height="500" width="500" preload="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="2" pannorth="0">
+    <start pan="0" projection="4" tilt="0" fov="100"/>
+    <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+    <min pan="0" fovpixel="2" tilt="-90"/>
+    <max pan="360" scaletofit="1" fovfisheye="360" tilt="90" fov="140" fovstereographic="330"/>
+  </view>
+  <userdata source="" copyright="" author="" info="" latitude="" nodeid="node1" title="" comment="" datetime="" description="" heading="0" longitude="" customnodeid="" tags="renderoutput"/>
+  <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+    <label enabled="1" borderradius="1" wordwrap="1" height="20" backgroundcolor="0xffffff" width="180" textcolor="0x000000" border="1" textalpha="1" borderalpha="1" background="1" backgroundalpha="1" bordercolor="0x000000"/>
+    <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+    <hotspot pan="-350.93" skinid="ht_image" url="images/Camera_03_d.jpg" id="Imagen 3" description="" target="" title="" tilt="-6.47"/>
+    <hotspot pan="-84.97" skinid="ht_image" url="images/Camera_01_d.jpg" id="Imagen puerta" description="" target="" title="" tilt="-9.98"/>
+    <hotspot pan="-256.27" skinid="ht_image" url="images/Camera_02_d.jpg" id="imagen 2" description="" target="" title="" tilt="-6.13"/>
+  </hotspots>
+  <media/>
+  <transition blendcolor="0x000000" zoomfov="40" enabled="1" zoomafterinfov="140" type="crossdissolve" delay="none" zoomspeed="2" zoomafteroutfov="40" zoomin="0" softedge="0" zoomoutpause="1" zoomout="0" blendtime="1"/>
+  <animation clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+  <control hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextvr="1" sensitivity="8" lockedwheel="0" rubberband="0" lockedkeyboard="0" zoomcentercursor="1" contextprojections="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" simulatemass="1" invertcontrol="1"/>
+  <projectuserdata copyright="" description="" author="" title="" comment="" tags=""/>
+</panorama>
